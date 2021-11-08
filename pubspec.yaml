@@ -1,7 +1,7 @@
 name: muli_router
 description: A Simple yet powerful navigator 2.0 based router
 version: 0.0.1
-homepage:
+homepage: https://github.com/raj457036/muli_router
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
